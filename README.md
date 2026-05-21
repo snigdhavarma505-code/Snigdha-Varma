@@ -22,4 +22,5 @@ Grow into a skilled software engineer
 “Code is more than syntax — it’s the ability to turn ideas into reality.”
 
 Email- snigdhavarma505@gmail.com
-Linkdin- www.linkedin.com/in/snigdhavarma
+
+LinkdIn- www.linkedin.com/in/snigdhavarma
