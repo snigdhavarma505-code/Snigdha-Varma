@@ -2,7 +2,7 @@
 
 💻 Computer Science Student | 🚀 Future Software Engineer | 🌎 Tech Enthusiast
 👨‍💻 About Me
-🎓 Computer Science student passionate about technology and innovation
+#🎓 Computer Science student passionate about technology and innovation
 🚀 Currently learning Full-Stack Development & AI
 💡 Love building projects that solve real-world problems
 🌱 Improving my skills in Python, JavaScript, Java, and C++
