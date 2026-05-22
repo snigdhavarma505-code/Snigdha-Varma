@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Snigdha
 
 💻 Computer Science Student | 🚀 Future Software Engineer | 🌎 Tech Enthusiast
-## 👨‍💻 About Me
+## 👩🏻‍💻 About Me
 - 🎓 Computer Science student passionate about technology and innovation
 - 🚀 Currently learning Full-Stack Development & AI
 - 💡 Love building projects that solve real-world problems
@@ -20,6 +20,6 @@
 ![](https://streak-stats.demolab.com/?user=SnigdhaVarma&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=SnigdhaVarma&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Email- snigdhavarma505@gmail.com
+📧 Email- snigdhavarma505@gmail.com
 
-LinkdIn- www.linkedin.com/in/snigdhavarma
+🖥️ LinkdIn- www.linkedin.com/in/snigdhavarma
