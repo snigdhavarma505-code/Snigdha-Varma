@@ -19,9 +19,6 @@
 ![](https://streak-stats.demolab.com/?user=snigdha&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=snigdha&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=snigdha&icon=0&color=6)](https://visitcount.itsvg.in)
-
 Email- snigdhavarma505@gmail.com
 
 LinkdIn- www.linkedin.com/in/snigdhavarma
