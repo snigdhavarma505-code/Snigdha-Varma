@@ -21,8 +21,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://github-readme-stats.shion.dev/api?username=Snigdha&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=Snigdha-Varma&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&custom_title=Snigdha's%20GitHub%20Stats)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)]![](https://github-readme-stats.vercel.app/api?username=Snigdha-Varma&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&custom_title=Snigdha's%20GitHub%20Stats)
 
 Email- snigdhavarma505@gmail.com
 
