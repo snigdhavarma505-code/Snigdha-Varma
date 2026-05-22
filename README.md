@@ -28,6 +28,11 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Snigdha&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Snigdha&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Snigdha&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 Email- snigdhavarma505@gmail.com
 
 LinkdIn- www.linkedin.com/in/snigdhavarma
