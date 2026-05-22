@@ -22,4 +22,4 @@
 
 📧 Email- snigdhavarma505@gmail.com
 
-🖥️ LinkdIn- www.linkedin.com/in/snigdhavarma
+🖥️ LinkdIn- www.linkedin.com/in/snigdhabedadam
