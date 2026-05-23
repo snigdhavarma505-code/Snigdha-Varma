@@ -22,5 +22,6 @@
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=B57EDC&left=true&vleft=true&width=600&lines=📧+Email+-+snigdhavarma505@gmail.com"/>
+  
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=B57EDC&left=true&vleft=true&width=600&lines=🖥️+LinkdIn+-+www.linkedin.com/in/snigdhabedadam"/>
