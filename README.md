@@ -21,7 +21,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=SnigdhaVarma&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=B57EDC&left=true&vleft=true&width=600&lines=📧+Email+-+snigdhavarma505@gmail.com"/>
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=B57EDC&left=true&vleft=true&width=500&lines=📧+Email+-+snigdhavarma505@gmail.com"/>
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=B57EDC&left=true&vleft=true&width=600&lines=🖥️+LinkdIn+-+www.linkedin.com/in/snigdhabedadam"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=B57EDC&left=true&vleft=true&width=500&lines=🖥️+LinkdIn+-+www.linkedin.com/in/snigdhabedadam"/>
