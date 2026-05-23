@@ -27,3 +27,6 @@
 </p>
 
 🖥️ LinkdIn- www.linkedin.com/in/snigdhabedadam
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FFD700&left=true&vleft=true&width=600&lines=🖥️+LinkdIn-+www.linkedin.com/in/snigdhabedadam;Open+Source+Enthusiast;Welcome+to+my+GitHub+Profile!" />
+</p>
